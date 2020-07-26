@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+import pandas as pd
 import time
 import re
 try: #python3
@@ -10,9 +12,9 @@ from collections import Counter
 
 def recent_20_posts(username):
     url = "https://www.instagram.com/" + username 
-    firefox_options = Options()
-    firefox_options.add_argument("--headless")
-    browser = Firefox()
+    options = Options()
+    options.add_argument('-headless')
+    browser = Firefox(executable_path='geckodriver', options=options)
     browser.get(url)
     post = 'https://www.instagram.com/p/'
     link_post_temp = []
@@ -52,10 +54,10 @@ def find_mentions(comment):
 
 
 def insta_link_details(url):
-    firefox_options = Options()
-    firefox_options.add_argument("--headless")
+    options = Options()
+    options.add_argument('-headless')
     time.sleep(10)
-    browser = Firefox()
+    browser = Firefox(executable_path='geckodriver', options=options)
     browser.get(url)
     try:
         likes = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div/article/div[3]/section[2]/div/div/button/span').text.split()[0]
@@ -69,9 +71,9 @@ def insta_link_details(url):
         hashtags = find_hashtags(comment)
         mentions = find_mentions(comment)
     except:
-        comment = none
-        hashtags = none
-        mentions = none
+        comment = "none"
+        hashtags = "none"
+        mentions = "none"
     post_details = {'link': url, 'type': post_type, 'likes/views': likes,
                     'age': age, 'comment': comment, 'hashtags': hashtags,
                     'mentions': mentions}
