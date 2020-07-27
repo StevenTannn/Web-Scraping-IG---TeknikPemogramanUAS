@@ -12,7 +12,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver import Firefox
 from collections import Counter
 
-def last_5_post(username):
+def last_recent_post(username,count_post):
     url = "https://www.instagram.com/" + username 
     options = Options()
     options.add_argument('-headless')
@@ -21,7 +21,7 @@ def last_5_post(username):
     post = 'https://www.instagram.com/p/'
     link_post_temp = []
     link_post = []
-    while len(link_post) < 2:
+    while len(link_post) < count_post:
         links = browser.find_elements_by_xpath("//a[@href]")
         for a in links:
             link_post_temp.append(a.get_attribute("href"))
@@ -33,7 +33,7 @@ def last_5_post(username):
         time.sleep(10)
     else:
         browser.stop_client()
-        return link_post[:2]
+        return link_post[:count_post]
 
 def find_hashtags(comment):
     hashtags = re.findall('#[A-Za-z]+', comment)
@@ -83,7 +83,7 @@ def post_link_detail(url):
     time.sleep(10)
     return post_details
 
-def download_ig_photo(url,filename):
+def download_ig_photo(url,filename,username):
     options = Options()
     options.add_argument('-headless')
     time.sleep(10)
@@ -95,18 +95,14 @@ def download_ig_photo(url,filename):
         datetimefile = y.strftime("%d-%b-%Y (%H:%M:%S)")
         filename = 'image/'+username+datetimefile+'.jpg'
         urllib.request.urlretrieve(image, filename)
-        print("Gambar telah disimpan")
+        print("Images Saved Succes")
     except:
-        print("Tidak ada gambar,error")
+        print("Images Saved Error Because its contain multiple photo or videos")
 
-username = 'uphimpactslives'
-post_urllink = last_5_post(username)
-print(post_urllink)
-filename = username
-post_foto = [download_ig_photo(url,filename) for url in post_urllink]
-post_detail = [post_link_detail(url) for url in post_urllink]
-result = pd.DataFrame(post_detail,)
-result.head()
-x = datetime.datetime.now()
-datetime = x.strftime("%d-%b-%Y (%H:%M:%S)")
-result.to_csv("csv/"+username+datetime+".csv")
+def generate_csv(post_detail,):
+    result = pd.DataFrame(post_detail,)
+    result.head()
+    x = datetime.datetime.now()
+    datetime = x.strftime("%d-%b-%Y (%H:%M:%S)")
+    result.to_csv("csv/"+username+datetime+".csv")
+
