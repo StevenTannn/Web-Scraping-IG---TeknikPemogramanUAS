@@ -21,6 +21,17 @@ Library yang perlu diinstall sebelum menggunakan program atau menjalankan main.p
 - selenium
 - geckodriver
 
+Cara Install pandas:
+install from pip : "pip install pandas"
+jika pip error boleh refer ke "https://stackoverflow.com/questions/42907331/how-to-install-pandas-from-pip-on-windows-cmd"
+
+Cara Install Selenium :
+Dengan pip : C:\Python34\Scripts\pip.exe install -U selenium
+atau dengan file yang sudah saya berikan 
+cd ke folder selenium-3.141.0 lalu ketik "python setup.py install"
+
+Geckodriver sudah built in di folder, jadi akan run otomatis ketika main.py dijalankan
+
 Browser yang harus digunakan : firefox diatas versi 60
 
-github : 
+Github : https://github.com/StevenTannn/teknikpemogramanuas
