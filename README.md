@@ -34,8 +34,6 @@ Geckodriver sudah built in di folder, jadi akan run otomatis ketika main.py dija
 
 Browser yang harus digunakan : firefox diatas versi 60
 
-Github : https://github.com/StevenTannn/teknikpemogramanuas
-
 Hasil Tampilan :
 
 Saat run main.py di environment mac os:
