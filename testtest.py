@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
 import time
-import re
+import datetime
+import urllib.request
 try: #python3
     from urllib.request import urlopen
 except: #python2
@@ -80,9 +81,30 @@ def insta_link_details(url):
     time.sleep(10)
     return post_details
 
-example_username_urls = recent_20_posts('bem.uphmedan')
+def insta_url_to_img(url,filename):
+    options = Options()
+    options.add_argument('-headless')
+    time.sleep(10)
+    browser = Firefox(executable_path='geckodriver', options=options)
+    browser.get(url)
+    try: 
+        image = browser.find_element_by_xpath('/html/body/div[1]/section/main/div/div/article/div[2]/div/div/div[1]/img').get_attribute('src').split(' ')[0]
+        y = datetime.datetime.now()
+        datetimefile = y.strftime("%d-%b-%Y (%H:%M:%S)")
+        filename = username+datetimefile+'.jpg'
+        urllib.request.urlretrieve(image, filename)
+        print("Gambar telah disimpan")
+    except:
+        print("No image")
+
+username = 'uphimpactslives'
+example_username_urls = recent_20_posts(username)
 print(example_username_urls)
+filename = username
+example_foto = [insta_url_to_img(url,filename) for url in example_username_urls]
 example_username_details = [insta_link_details(url) for url in example_username_urls]
-example_username = pd.DataFrame(example_username_details)
+example_username = pd.DataFrame(example_username_details,)
 example_username.head()
-example_username.to_csv('csv/example_username_11_01_19.csv')
+x = datetime.datetime.now()
+datetime = x.strftime("%d-%b-%Y (%H:%M:%S)")
+example_username.to_csv("csv/"+username+datetime+".csv")

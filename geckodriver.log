@@ -143,3 +143,1406 @@ IPDL protocol error: Handler returned error code!
 *** You are running in headless mode.
 1595781153958	Marionette	INFO	Listening on port 55223
 1595781154027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595783033699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileaGOt5K"
+*** You are running in headless mode.
+1595783038869	Marionette	INFO	Listening on port 55562
+1595783038952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595783068408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileh8AZTH"
+*** You are running in headless mode.
+1595783071613	Marionette	INFO	Listening on port 55692
+1595783071684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595783096572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile4iarOv"
+*** You are running in headless mode.
+1595783100103	Marionette	INFO	Listening on port 55773
+1595783100166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595783370359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilehMgYhC"
+*** You are running in headless mode.
+1595783373722	Marionette	INFO	Listening on port 55876
+1595783373747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595783549404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiletUkBGo"
+*** You are running in headless mode.
+1595783553447	Marionette	INFO	Listening on port 55972
+1595783553487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595783676221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileYfbukM"
+*** You are running in headless mode.
+1595783680074	Marionette	INFO	Listening on port 56078
+1595783680107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595784616199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileUVTPaF"
+*** You are running in headless mode.
+1595784622394	Marionette	INFO	Listening on port 56476
+1595784622430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595784714816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileilPCEt"
+*** You are running in headless mode.
+1595784719437	Marionette	INFO	Listening on port 56605
+1595784719476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595784886459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileC3iAT2"
+*** You are running in headless mode.
+1595784895947	Marionette	INFO	Listening on port 56706
+1595784895978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595785211355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileR0PH5I"
+*** You are running in headless mode.
+1595785215148	Marionette	INFO	Listening on port 56881
+1595785215302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595785319645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileo9KBUh"
+*** You are running in headless mode.
+1595785323632	Marionette	INFO	Listening on port 57022
+1595785323741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595785426787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilewY0sdx"
+*** You are running in headless mode.
+1595785435688	Marionette	INFO	Listening on port 57144
+1595785435780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595785519810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile444F7q"
+*** You are running in headless mode.
+1595785524064	Marionette	INFO	Listening on port 57305
+1595785524141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595785553922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileDrAp0x"
+*** You are running in headless mode.
+1595785559702	Marionette	INFO	Listening on port 57424
+1595785559736	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-07-27 00:47:46.364 plugin-container[19123:156782] PLClientLogging: unknown permission type 2
+1595785688014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileHbwEDf"
+*** You are running in headless mode.
+1595785695756	Marionette	INFO	Listening on port 57605
+1595785695793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595786158175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile7xODUl"
+*** You are running in headless mode.
+1595786162455	Marionette	INFO	Listening on port 57822
+1595786162535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595786330477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileUJ84DW"
+*** You are running in headless mode.
+1595786336461	Marionette	INFO	Listening on port 58004
+1595786336551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595786407256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilelsvsK3"
+*** You are running in headless mode.
+1595786413024	Marionette	INFO	Listening on port 58124
+1595786413034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595786590523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileeAu7DF"
+*** You are running in headless mode.
+1595786598739	Marionette	INFO	Listening on port 58278
+1595786598851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595786852906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileKGceqy"
+*** You are running in headless mode.
+1595786859106	Marionette	INFO	Listening on port 58508
+1595786859210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595786887365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilenrqcWi"
+*** You are running in headless mode.
+1595786892337	Marionette	INFO	Listening on port 58621
+1595786892448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595787279770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilezNkWRe"
+*** You are running in headless mode.
+1595787285592	Marionette	INFO	Listening on port 58793
+1595787285626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595787314712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileXpwI8T"
+*** You are running in headless mode.
+1595787320185	Marionette	INFO	Listening on port 58918
+1595787320250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595787352751	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilepnidxI"
+*** You are running in headless mode.
+1595787358285	Marionette	INFO	Listening on port 59021
+1595787358318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595788013552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilecP4oWO"
+*** You are running in headless mode.
+1595788021561	Marionette	INFO	Listening on port 59337
+1595788021665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595788048969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilegcxSRQ"
+*** You are running in headless mode.
+1595788057976	Marionette	INFO	Listening on port 59473
+1595788058011	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-07-27 01:27:42.857 plugin-container[19924:200336] PLClientLogging: unknown permission type 2
+1595788084535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilevZWULF"
+*** You are running in headless mode.
+1595788093109	Marionette	INFO	Listening on port 59615
+1595788093176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595788368221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilewyeBrz"
+*** You are running in headless mode.
+1595788373199	Marionette	INFO	Listening on port 59820
+1595788373270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595788402108	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileqHmKND"
+*** You are running in headless mode.
+1595788407297	Marionette	INFO	Listening on port 59933
+1595788407381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595788498356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileyzr7an"
+*** You are running in headless mode.
+1595788503909	Marionette	INFO	Listening on port 60046
+1595788503959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595789004593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilebPse0P"
+*** You are running in headless mode.
+1595789009778	Marionette	INFO	Listening on port 60314
+1595789009851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595789112915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile34kVLH"
+*** You are running in headless mode.
+1595789117884	Marionette	INFO	Listening on port 60450
+1595789117989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595789292356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileuRPQmu"
+*** You are running in headless mode.
+1595789297799	Marionette	INFO	Listening on port 60568
+1595789297883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595789535996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileeiVt2m"
+*** You are running in headless mode.
+1595789541178	Marionette	INFO	Listening on port 60741
+1595789541308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595789571247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileaKgO0N"
+*** You are running in headless mode.
+1595789576856	Marionette	INFO	Listening on port 60861
+1595789576968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595789604174	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileRCqiLB"
+*** You are running in headless mode.
+1595789610050	Marionette	INFO	Listening on port 60972
+1595789610098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595790009596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile7SWDal"
+*** You are running in headless mode.
+1595790017264	Marionette	INFO	Listening on port 61235
+1595790017332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595790112848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilejR4gIZ"
+*** You are running in headless mode.
+1595790121713	Marionette	INFO	Listening on port 61385
+1595790121764	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-07-27 02:03:22.703 plugin-container[20535:248535] PLClientLogging: unknown permission type 2
+1595790224587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile1UvUE2"
+*** You are running in headless mode.
+1595790232937	Marionette	INFO	Listening on port 61551
+1595790232994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595791111025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileNqBhhL"
+*** You are running in headless mode.
+1595791116749	Marionette	INFO	Listening on port 61925
+1595791116832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595791221590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilelReSR8"
+*** You are running in headless mode.
+1595791227055	Marionette	INFO	Listening on port 62070
+1595791227086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595791344311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileF6sqA5"
+*** You are running in headless mode.
+1595791350904	Marionette	INFO	Listening on port 62185
+1595791351006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595791982942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileXfPhxa"
+*** You are running in headless mode.
+1595791993259	Marionette	INFO	Listening on port 62806
+1595791993313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595792144972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileIJyiYp"
+*** You are running in headless mode.
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+console.error: (new Error("Error(s) encountered during statement execution: unable to open database file", "resource://gre/modules/Sqlite.jsm", 887))
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: resource://services-settings/IDBHelpers.jsm, line 24: AbortError: IndexedDB: main/fxmonitor-breaches getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: unable to open database file
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: unable to open database file
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+[Parent 21027, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 21027, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 21027, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 21027, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1963: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+[Parent 21027, Gecko_IOThread] WARNING: Unable to create pipe named "21027.12.1202989456" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 21027, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+[Child 21037, DOM File] WARNING: Unable to create pipe named "21037.1.219934180" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Child 21037, Worker Launcher] WARNING: Unable to create pipe named "21037.2.1243700366" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+2020-07-26 19:35:50.823 plugin-container[21037:295559] CoreText: System LastResort not available, using built-in copy.
+1595792150910	Marionette	INFO	Listening on port 63635
+1595792150986	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595792425658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileKNpo75"
+*** You are running in headless mode.
+[Parent 21092, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390036,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 21092, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390036,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 21092, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001C,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390035,name=PContent::Msg_RegisterStringBundles) Channel error: cannot send/recv
+
+[Parent 21092, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39003F,name=PContent::Msg_AppInfo) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390040,name=PContent::Msg_RemoteType) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001A,name=PContent::Msg_PScriptCacheConstructor) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+[Parent 21092, Main Thread] WARNING: Unable to create pipe named "21092.14.1950529486" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[GFX1-]: Could not create content compositor bridge: 0x80610001
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390050,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1595792502060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileYiacUc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1193: TypeError: connection is null
+[Parent 21164, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+[Parent 21164, Gecko_IOThread] WARNING: Unable to create pipe named "21164.12.1194518061" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 21164, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+[Parent 21164, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+[Parent 21164, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+1595792509471	Marionette	INFO	Listening on port 65311
+1595792509575	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+[Child 21167, Socket Thread] WARNING: Unable to create pipe named "21167.3.1230230242" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+1595815482677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilerNqG6J"
+*** You are running in headless mode.
+1595815491958	Marionette	INFO	Listening on port 51252
+1595815492021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595815535202	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilex60pZm"
+*** You are running in headless mode.
+1595815541788	Marionette	INFO	Listening on port 51422
+1595815541881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595815568682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilexbpW5v"
+*** You are running in headless mode.
+1595815575430	Marionette	INFO	Listening on port 51545
+1595815575461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595816153461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile0F8xqo"
+*** You are running in headless mode.
+1595816160077	Marionette	INFO	Listening on port 51773
+1595816160165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595816196145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilen35xWF"
+*** You are running in headless mode.
+1595816202782	Marionette	INFO	Listening on port 51898
+1595816202790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595816321333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileBAbXHI"
+*** You are running in headless mode.
+1595816328186	Marionette	INFO	Listening on port 52013
+1595816328225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595816702240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileJIBjXn"
+*** You are running in headless mode.
+1595816709315	Marionette	INFO	Listening on port 52201
+1595816709419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595816747469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileoskFGj"
+*** You are running in headless mode.
+1595816754369	Marionette	INFO	Listening on port 52343
+1595816754445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595816791465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile3z6lH1"
+*** You are running in headless mode.
+1595816796271	Marionette	INFO	Listening on port 52475
+1595816796299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817066525	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileUbdHrm"
+*** You are running in headless mode.
+1595817070035	Marionette	INFO	Listening on port 52632
+1595817070139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817365919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile5TEpSJ"
+*** You are running in headless mode.
+1595817371486	Marionette	INFO	Listening on port 52786
+1595817371549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817409310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileH8DdLS"
+*** You are running in headless mode.
+1595817412484	Marionette	INFO	Listening on port 52903
+1595817412577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817575955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile9iBmLl"
+*** You are running in headless mode.
+1595817579370	Marionette	INFO	Listening on port 52992
+1595817579439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817606991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile66OaIb"
+*** You are running in headless mode.
+1595817610496	Marionette	INFO	Listening on port 53095
+1595817610562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817625776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile4SbHNg"
+*** You are running in headless mode.
+1595817629240	Marionette	INFO	Listening on port 53177
+1595817629343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817713637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileFgNShw"
+*** You are running in headless mode.
+1595817717417	Marionette	INFO	Listening on port 53269
+1595817717424	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-07-27 09:43:29.443 plugin-container[5652:128372] PLClientLogging: unknown permission type 2
+1595817831152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilekQUrlr"
+*** You are running in headless mode.
+1595817834608	Marionette	INFO	Listening on port 53365
+1595817834629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595817959081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileBokW4t"
+*** You are running in headless mode.
+1595817962539	Marionette	INFO	Listening on port 53471
+1595817962563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818056803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilei11F9i"
+*** You are running in headless mode.
+1595818060546	Marionette	INFO	Listening on port 53577
+1595818060639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818256873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilezumoGF"
+*** You are running in headless mode.
+1595818260590	Marionette	INFO	Listening on port 53728
+1595818260696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818352487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileSGQCCb"
+*** You are running in headless mode.
+1595818357173	Marionette	INFO	Listening on port 53900
+1595818357207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818488549	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilewpuofj"
+*** You are running in headless mode.
+1595818492203	Marionette	INFO	Listening on port 54548
+1595818492239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818605324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileqeWdLB"
+*** You are running in headless mode.
+1595818609229	Marionette	INFO	Listening on port 55135
+1595818609315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818790595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileV54vRp"
+*** You are running in headless mode.
+1595818795135	Marionette	INFO	Listening on port 56003
+1595818795215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818890032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileeC0vth"
+*** You are running in headless mode.
+1595818894329	Marionette	INFO	Listening on port 56536
+1595818894432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818912578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile0omaUs"
+*** You are running in headless mode.
+1595818916437	Marionette	INFO	Listening on port 56706
+1595818916478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595818942716	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileHjtsA2"
+*** You are running in headless mode.
+1595818946563	Marionette	INFO	Listening on port 56911
+1595818946632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595819251433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileZPLUOe"
+*** You are running in headless mode.
+1595819255683	Marionette	INFO	Listening on port 58335
+1595819255746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595819368436	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileMzJqx3"
+*** You are running in headless mode.
+1595819372212	Marionette	INFO	Listening on port 58925
+1595819372233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595824138717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile3b4EJQ"
+*** You are running in headless mode.
+[7920, Main Thread] ###!!! ABORT: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 122
+[7920, Main Thread] ###!!! ABORT: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 122
+** Unknown exception behavior: 0
+JavaScript error: , line 0: uncaught exception: null
+1595824210186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileN4NYaY"
+*** You are running in headless mode.
+[8175, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.0.1697581378" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.1.2091959139" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.2.935521618" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.3.1936650928" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.4.812478059" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.5.1195346965" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.6.1510775948" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.7.1789342766" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.8.1378264544" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.9.1418809380" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.10.209393464" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.11.1284565915" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.12.920455917" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.13.626423726" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 3941: Error: Area not yet restored
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 3036: TypeError: win is null
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1963: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.14.1360517704" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.15.915717932" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8175, Gecko_IOThread] WARNING: Unable to create pipe named "8175.16.2110254037" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: resource://gre/modules/RemoteWebNavigation.jsm, line 34: TypeError: this._browser.frameLoader.remoteTab is null
+dyld: could not load inserted library '/Applications/Firefox.app/Contents/MacOS/libplugin_child_interpose.dylib' because no suitable image found.  Did find:
+	/Applications/Firefox.app/Contents/MacOS/libplugin_child_interpose.dylib: open() failed with errno=23
+	/Applications/Firefox.app/Contents/MacOS/libplugin_child_interpose.dylib: stat() failed with errno=1
+
+[Parent 8175, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 1305
+[Parent 8175, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 686: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+1595824970904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileEMan72"
+*** You are running in headless mode.
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+console.error: (new Error("Error(s) encountered during statement execution: unable to open database file", "resource://gre/modules/Sqlite.jsm", 887))
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 509: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 2300: NS_ERROR_FAILURE: SearchService initialization failed
+JavaScript error: resource://services-settings/IDBHelpers.jsm, line 24: AbortError: IndexedDB: main/fxmonitor-breaches getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: unable to open database file
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: unable to open database file
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: uncaught exception: Object
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: uncaught exception: 2147500037
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 250))
+1595824982859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilegcWXQK"
+*** You are running in headless mode.
+[Child 8317, DOM File] WARNING: Unable to create pipe named "8317.1.1396273889" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Child 8317, Worker Launcher] WARNING: Unable to create pipe named "8317.2.1982428587" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+2020-07-27 04:43:07.979 plugin-container[8317:300372] CoreText: System LastResort not available, using built-in copy.
+2020-07-27 04:43:08.445 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.445 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.446 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.446 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.448 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.448 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.449 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.449 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.450 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.450 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.451 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+2020-07-27 04:43:08.451 plugin-container[8317:300372] Critical failure: the LastResort font is unavailable.
+objc[8317]: couldn't dlopen libobjc-trampolines.dylib: dlopen(/usr/lib/libobjc-trampolines.dylib, 262): no suitable image found.  Did find:
+	/usr/lib/libobjc-trampolines.dylib: open() failed with errno=23
+** Unknown exception behavior: 0
+Exiting due to channel error.
+Exiting due to channel error.
+1595824997741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileJn9nHW"
+*** You are running in headless mode.
+[Parent 8340, Main Thread] WARNING: Unable to create pipe named "8340.9.1965955554" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[GFX1-]: Could not create content compositor bridge: 0x80610001
+[Parent 8340, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+[8345, Chrome_ChildThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/message_pump_libevent.cc, line 127
+[Child 8345, Main Thread] WARNING: Unable to create pipe named "8345.0.620845849" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+2020-07-27 04:43:23.107 plugin-container[8344:301288] CoreText: System LastResort not available, using built-in copy.
+objc[8344]: couldn't dlopen libobjc-trampolines.dylib: dlopen(/usr/lib/libobjc-trampolines.dylib, 262): no suitable image found.  Did find:
+	/usr/lib/libobjc-trampolines.dylib: open() failed with errno=23
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+[Parent 8340, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://browser/content/browser.js, line 7831: TypeError: browser.messageManager is null
+[Parent 8340, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390024,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4625: TypeError: aWindow.gNavToolbox.palette is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 3941: Error: Area not yet restored
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 250))
+1595825110748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileL9eyJL"
+*** You are running in headless mode.
+1595825120745	Marionette	INFO	Listening on port 63619
+1595825120857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825169345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileNwM7Wp"
+*** You are running in headless mode.
+1595825179267	Marionette	INFO	Listening on port 64041
+1595825179333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825199241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileaKaKps"
+*** You are running in headless mode.
+[8679, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[8679, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[8679, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: resource://services-settings/IDBHelpers.jsm, line 24: UnknownError: IndexedDB: main/anti-tracking-url-decoration getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+[8679, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[8679, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+console.error: "Could not read session file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not read session file " (new Error("", "(unknown module)")) ""
+objc[8679]: couldn't dlopen libobjc-trampolines.dylib: dlopen(/usr/lib/libobjc-trampolines.dylib, 262): no suitable image found.  Did find:
+	/usr/lib/libobjc-trampolines.dylib: open() failed with errno=23
+	/usr/lib/libobjc-trampolines.dylib: stat() failed with errno=22
+1595825221755	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilebfKlvK"
+*** You are running in headless mode.
+2020-07-27 04:47:08.036 plugin-container[8704:310601] CoreText: System LastResort not available, using built-in copy.
+[Parent 8703, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 8703, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+2020-07-27 11:47:08.189 firefox-bin[8703:310342] CoreText: System LastResort not available, using built-in copy.
+[Parent 8703, IPDL Background] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+console.error: "Could not read session file " (new Error("", "(unknown module)")) ""
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+objc[8704]: couldn't dlopen libobjc-trampolines.dylib: dlopen(/usr/lib/libobjc-trampolines.dylib, 262): no suitable image found.  Did find:
+	/usr/lib/libobjc-trampolines.dylib: open() failed with errno=23
+Exiting due to channel error.
+1595825251836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilePkY7K4"
+*** You are running in headless mode.
+[Parent 8727, Main Thread] WARNING: Unable to create pipe named "8727.9.1158756348" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[GFX1-]: Could not create content compositor bridge: 0x80610001
+[Parent 8727, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+[8730, Chrome_ChildThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/message_pump_libevent.cc, line 127
+[Child 8730, Main Thread] WARNING: Unable to create pipe named "8730.0.225554590" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+JavaScript error: , line 0: uncaught exception: null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+** Unknown exception behavior: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595825308087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileMd2mGx"
+*** You are running in headless mode.
+[Child 8901, Worker Launcher] WARNING: Unable to create pipe named "8901.2.27117096" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8899, IPDL Background] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+2020-07-27 04:48:33.697 plugin-container[8900:314446] CoreText: System LastResort not available, using built-in copy.
+objc[8900]: couldn't dlopen libobjc-trampolines.dylib: dlopen(/usr/lib/libobjc-trampolines.dylib, 262): no suitable image found.  Did find:
+	/usr/lib/libobjc-trampolines.dylib: open() failed with errno=23
+Exiting due to channel error.
+1595825331949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileLiZ6hv"
+*** You are running in headless mode.
+[Child 8929, DOM File] WARNING: Unable to create pipe named "8929.1.1517126242" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Child 8929, Worker Launcher] WARNING: Unable to create pipe named "8929.2.1319731788" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8924, Gecko_IOThread] WARNING: Unable to create pipe named "8924.6.2088335574" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8924, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 8924, Gecko_IOThread] WARNING: Unable to create pipe named "8924.7.1879954588" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 8924, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+2020-07-27 11:48:57.091 firefox-bin[8924:315272] CoreText: System LastResort not available, using built-in copy.
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+IPDL protocol Error: Received an invalid file descriptor
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 3941: Error: Area not yet restored
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 509: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/SearchService.jsm, line 2300: NS_ERROR_FAILURE: SearchService initialization failed
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://browser/content/browser.js, line 7831: TypeError: browser.messageManager is null
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4625: TypeError: aWindow.gNavToolbox.palette is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: uncaught exception: 2147500037
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 250))
+1595825397620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile0zLKX7"
+*** You are running in headless mode.
+1595825404388	Marionette	INFO	Listening on port 65490
+1595825404430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825447861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileg2EkEe"
+*** You are running in headless mode.
+[Parent 9007, Main Thread] WARNING: Unable to create pipe named "9007.2.1705290820" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[GFX1-]: Could not create content compositor bridge: 0x80610001
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.4.1823575523" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.5.1535552475" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.6.1814122103" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.7.635497443" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.8.1607992851" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.9.853636818" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.10.1200487227" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.11.73547863" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[warn] kqueue: Too many open files in system
+[warn] evutil_make_internal_pipe_: pipe: Too many open files in system
+[err] evsig_init_: socketpair: Too many open files in system
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.12.1342642365" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+[Parent 9007, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 9007, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 9007, Gecko_IOThread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 9007, Main Thread] WARNING: Unable to create pipe named "9007.14.1328248829" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[GFX1-]: Could not create content compositor manager: 0x80610001
+[Parent 9007, Gecko_IOThread] WARNING: Unable to create pipe named "9007.15.766902460" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9007, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+[9009, Chrome_ChildThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/message_pump_libevent.cc, line 127
+2020-07-27 11:50:51.382 firefox-bin[9007:320428] CoreText: System LastResort not available, using built-in copy.
+[Child 9009, Main Thread] WARNING: Unable to create pipe named "9009.0.762237388" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 1543: TypeError: messageManager is null
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390051,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://browser/content/browser.js, line 7831: TypeError: browser.messageManager is null
+[Parent 9007, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+[Parent 9007, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 9007, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 9007, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4625: TypeError: aWindow.gNavToolbox.palette is undefined
+JavaScript error: resource://gre/modules/CrashService.jsm, line 218: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsICrashReporter.getExtraFileForID]
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1193: TypeError: connection is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 250))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "profile-change-teardown" is finished, it is too late to register completion condition "PluginFinder: finding plugins to load"
+1595825493482	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile1CxaoZ"
+*** You are running in headless mode.
+[Parent 9033, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[Parent 9033, Main Thread] WARNING: Unable to create pipe named "9033.7.1916453989" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[GFX1-]: Could not create content compositor manager: 0x80610001
+[Parent 9033, Gecko_IOThread] WARNING: Unable to create pipe named "9033.8.187242095" in server mode error(Too many open files in system).: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 213
+[Parent 9033, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1113: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextContentPrincipal]
+JavaScript error: chrome://browser/content/tabbrowser.js, line 432: TypeError: browser.webProgress is null
+[9035, Chrome_ChildThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/message_pump_libevent.cc, line 127
+2020-07-27 11:51:35.517 firefox-bin[9033:322102] CoreText: System LastResort not available, using built-in copy.
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+console.error: "Could not read session file " (new Error("", (void 0))) ""
+** Unknown exception behavior: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595825513561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileMY2tjq"
+*** You are running in headless mode.
+JavaScript error: resource://services-settings/IDBHelpers.jsm, line 24: UnknownError: IndexedDB: main/anti-tracking-url-decoration getLastModified() IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+[9072, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[9072, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[9072, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[9072, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+[9072, Main Thread] WARNING: failed to open shm: Too many open files in system: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 246
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.error: "Could not read session file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not read session file " (new Error("", "(unknown module)")) ""
+objc[9072]: couldn't dlopen libobjc-trampolines.dylib: dlopen(/usr/lib/libobjc-trampolines.dylib, 262): no suitable image found.  Did find:
+	/usr/lib/libobjc-trampolines.dylib: open() failed with errno=23
+	/usr/lib/libobjc-trampolines.dylib: stat() failed with errno=22
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595825548571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileJbGjdW"
+*** You are running in headless mode.
+1595825551480	Marionette	INFO	Listening on port 49903
+1595825551544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825593231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilexsCJWH"
+*** You are running in headless mode.
+1595825595884	Marionette	INFO	Listening on port 49994
+1595825595987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825610898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileZSo6j1"
+*** You are running in headless mode.
+1595825613495	Marionette	INFO	Listening on port 50062
+1595825613561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825706584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilemg1hc4"
+*** You are running in headless mode.
+1595825709145	Marionette	INFO	Listening on port 50137
+1595825709239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595825736390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileNAGz9E"
+*** You are running in headless mode.
+1595825739017	Marionette	INFO	Listening on port 50199
+1595825739048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826170878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileRfm27z"
+*** You are running in headless mode.
+1595826173476	Marionette	INFO	Listening on port 51739
+1595826173528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826212655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilevomc3V"
+*** You are running in headless mode.
+1595826215370	Marionette	INFO	Listening on port 51998
+1595826215400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826235014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileR7Niu6"
+*** You are running in headless mode.
+1595826237890	Marionette	INFO	Listening on port 52154
+1595826237978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826348426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileph6Iz5"
+*** You are running in headless mode.
+1595826351437	Marionette	INFO	Listening on port 52687
+1595826351479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826446127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileG0f7J6"
+*** You are running in headless mode.
+1595826449023	Marionette	INFO	Listening on port 53139
+1595826449112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826770908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilerib5UU"
+*** You are running in headless mode.
+1595826773915	Marionette	INFO	Listening on port 54551
+1595826773971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826813053	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileJ8uWZU"
+*** You are running in headless mode.
+1595826815848	Marionette	INFO	Listening on port 54820
+1595826815940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595826981908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileDHsxh2"
+*** You are running in headless mode.
+1595826985992	Marionette	INFO	Listening on port 55587
+1595826986004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827086230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileg0l7jC"
+*** You are running in headless mode.
+1595827089507	Marionette	INFO	Listening on port 56105
+1595827089625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827118150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilelS667p"
+*** You are running in headless mode.
+1595827121814	Marionette	INFO	Listening on port 56307
+1595827121851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827413309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileiCeNmA"
+*** You are running in headless mode.
+1595827416880	Marionette	INFO	Listening on port 57971
+1595827416915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827460307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile7iMeBJ"
+*** You are running in headless mode.
+1595827463254	Marionette	INFO	Listening on port 58330
+1595827463287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827554430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileAnPi1v"
+*** You are running in headless mode.
+1595827557445	Marionette	INFO	Listening on port 58800
+1595827557522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827575797	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiletleZRb"
+*** You are running in headless mode.
+1595827579473	Marionette	INFO	Listening on port 58956
+1595827579507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827603883	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileo0uXmZ"
+*** You are running in headless mode.
+1595827606927	Marionette	INFO	Listening on port 59152
+1595827606944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595827829809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileMPcBsv"
+*** You are running in headless mode.
+1595827832944	Marionette	INFO	Listening on port 60193
+1595827832979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595828165113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileAv2zSs"
+*** You are running in headless mode.
+1595828168442	Marionette	INFO	Listening on port 61727
+1595828168478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595828209354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilebv6FO9"
+*** You are running in headless mode.
+1595828212449	Marionette	INFO	Listening on port 61999
+1595828212524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595828395535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilecFSOAt"
+*** You are running in headless mode.
+1595828398707	Marionette	INFO	Listening on port 62834
+1595828398806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595829709308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileh0rPGO"
+*** You are running in headless mode.
+1595829715697	Marionette	INFO	Listening on port 52058
+1595829715794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595829754153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilejx18Uy"
+*** You are running in headless mode.
+1595829760711	Marionette	INFO	Listening on port 52368
+1595829760727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595829776992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileYigSG8"
+*** You are running in headless mode.
+1595829780716	Marionette	INFO	Listening on port 52575
+1595829780793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595829796120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile8Dmsph"
+*** You are running in headless mode.
+1595829799886	Marionette	INFO	Listening on port 52739
+1595829799905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595829902679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileBgwSRx"
+*** You are running in headless mode.
+1595829905810	Marionette	INFO	Listening on port 53263
+1595829905859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595830058966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilebkvSso"
+*** You are running in headless mode.
+1595830062666	Marionette	INFO	Listening on port 54046
+1595830062774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595830133671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileLcZjsz"
+*** You are running in headless mode.
+1595830136824	Marionette	INFO	Listening on port 54474
+1595830136895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595830477825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileS4pJoK"
+*** You are running in headless mode.
+1595830481110	Marionette	INFO	Listening on port 56041
+1595830481209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595830568881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile9HKRhJ"
+*** You are running in headless mode.
+1595830573355	Marionette	INFO	Listening on port 56532
+1595830573432	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595831361806	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileiSWFPm"
+*** You are running in headless mode.
+1595831364704	Marionette	INFO	Listening on port 60842
+1595831364772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595831440941	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileGxWAAW"
+*** You are running in headless mode.
+1595831443395	Marionette	INFO	Listening on port 61251
+1595831443405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595831462944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileGzNJd4"
+*** You are running in headless mode.
+1595831465502	Marionette	INFO	Listening on port 61403
+1595831465587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595831666801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileIt29MU"
+*** You are running in headless mode.
+1595831669390	Marionette	INFO	Listening on port 62284
+1595831669444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595831775278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile1EIBNv"
+*** You are running in headless mode.
+1595831777966	Marionette	INFO	Listening on port 62794
+1595831778032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595831878511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileREJcWC"
+*** You are running in headless mode.
+1595831881248	Marionette	INFO	Listening on port 63305
+1595831881279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595832077812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileOTEmTh"
+*** You are running in headless mode.
+1595832080446	Marionette	INFO	Listening on port 64211
+1595832080480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595832165069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilehYMwTr"
+*** You are running in headless mode.
+1595832167592	Marionette	INFO	Listening on port 64655
+1595832167643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595832574704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileu35QGL"
+*** You are running in headless mode.
+1595832577572	Marionette	INFO	Listening on port 50076
+1595832577660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595832838060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilelOlOer"
+*** You are running in headless mode.
+1595832841082	Marionette	INFO	Listening on port 51276
+1595832841121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595832996044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilejHfNXp"
+*** You are running in headless mode.
+1595832999058	Marionette	INFO	Listening on port 52033
+1595832999103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833133930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile9CgY0x"
+*** You are running in headless mode.
+1595833136979	Marionette	INFO	Listening on port 52693
+1595833137086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833248571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilexmmuOT"
+*** You are running in headless mode.
+1595833252058	Marionette	INFO	Listening on port 53264
+1595833252145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833267632	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileLIRBbx"
+*** You are running in headless mode.
+1595833270948	Marionette	INFO	Listening on port 53422
+1595833271213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833552970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileiLpHmM"
+*** You are running in headless mode.
+1595833556204	Marionette	INFO	Listening on port 54675
+1595833556248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833670417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileZ8WfE6"
+*** You are running in headless mode.
+1595833674395	Marionette	INFO	Listening on port 55243
+1595833674444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833843453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileaQfHDF"
+*** You are running in headless mode.
+1595833846686	Marionette	INFO	Listening on port 56049
+1595833846709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833887957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile9T82rH"
+*** You are running in headless mode.
+1595833891148	Marionette	INFO	Listening on port 56335
+1595833891219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834062160	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiletI4zI9"
+*** You are running in headless mode.
+1595834065345	Marionette	INFO	Listening on port 57125
+1595834065432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834091724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilez8bKNW"
+*** You are running in headless mode.
+1595834098192	Marionette	INFO	Listening on port 57332
+1595834098249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834123831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilebhRmo4"
+*** You are running in headless mode.
+1595834126918	Marionette	INFO	Listening on port 57578
+1595834126999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834170999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileWE67OX"
+*** You are running in headless mode.
+1595834174158	Marionette	INFO	Listening on port 57855
+1595834174182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834366764	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilep9hY23"
+*** You are running in headless mode.
+1595834370036	Marionette	INFO	Listening on port 58766
+1595834370100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834385426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileoG0moj"
+*** You are running in headless mode.
+1595834388472	Marionette	INFO	Listening on port 58911
+1595834388521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834419307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile3kmBrh"
+*** You are running in headless mode.
+1595834422777	Marionette	INFO	Listening on port 59145
+1595834422889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834448058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilePOOCL8"
+*** You are running in headless mode.
+1595834451643	Marionette	INFO	Listening on port 59345
+1595834451658	Marionette	WARN	TLS certificate errors will be ignored for this session
