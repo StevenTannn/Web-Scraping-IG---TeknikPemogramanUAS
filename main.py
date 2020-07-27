@@ -20,6 +20,6 @@ post_foto = [download_ig_photo(url,filename, username) for url in post_urllink]
 print ("Please wait for a couple minutes because the detail of post are being process")
 post_detail = [post_link_detail(url) for url in post_urllink]
 print ("Please wait for a couple minutes because we are generating the report for you")
-generatecsv = generate_csv(post_detail,)
+generatecsv = generate_csv(post_detail,username)
 print ("The scrape result have been saved in csv folder")
 print ("Halo, The Process of scrape" + username + "has been done succesfully")

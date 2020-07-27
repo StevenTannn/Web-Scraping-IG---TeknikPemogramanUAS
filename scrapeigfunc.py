@@ -4,6 +4,7 @@ import time
 import datetime
 import re
 import urllib.request
+from random import randint
 try: #python3
     from urllib.request import urlopen
 except: #python2
@@ -77,7 +78,7 @@ def post_link_detail(url):
         hashtags = "none"
         mentions = "none"
     post_details = {'link': url, 'type': post_type, 'likes/views': likes,
-                    'age': age, 'comment': comment, 'hashtags': hashtags,
+                    'time': time, 'comment': comment, 'hashtags': hashtags,
                     'mentions': mentions}
     print(post_details)
     time.sleep(10)
@@ -99,10 +100,8 @@ def download_ig_photo(url,filename,username):
     except:
         print("Images Saved Error Because its contain multiple photo or videos")
 
-def generate_csv(post_detail,):
+def generate_csv(post_detail,username):
     result = pd.DataFrame(post_detail,)
     result.head()
-    x = datetime.datetime.now()
-    datetime = x.strftime("%d-%b-%Y (%H:%M:%S)")
-    result.to_csv("csv/"+username+datetime+".csv")
+    result.to_csv("csv/"+username+".csv")
 

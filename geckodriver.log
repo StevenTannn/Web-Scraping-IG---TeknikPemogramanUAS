@@ -1807,3 +1807,546 @@ Exiting due to channel error.
 *** You are running in headless mode.
 1595853191225	Marionette	INFO	Listening on port 61055
 1595853191305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853358466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile5AhknY"
+*** You are running in headless mode.
+1595853361981	Marionette	INFO	Listening on port 61178
+1595853362039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853475684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilexZy3G7"
+*** You are running in headless mode.
+1595853479036	Marionette	INFO	Listening on port 61296
+1595853479263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853686340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileIVFY1f"
+*** You are running in headless mode.
+1595853689873	Marionette	INFO	Listening on port 61413
+1595853689882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853936245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileLwtwEk"
+*** You are running in headless mode.
+1595853939676	Marionette	INFO	Listening on port 61547
+1595853939749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853979155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileMzLTI3"
+*** You are running in headless mode.
+1595853982711	Marionette	INFO	Listening on port 61655
+1595853982804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595854095329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile9volkV"
+*** You are running in headless mode.
+1595854103053	Marionette	INFO	Listening on port 61782
+1595854103115	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595854735616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileYG8X4N"
+*** You are running in headless mode.
+1595854744706	Marionette	INFO	Listening on port 62077
+1595854744726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595854782409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileIMe6QK"
+*** You are running in headless mode.
+1595854791218	Marionette	INFO	Listening on port 62213
+1595854791304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595854818392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile5kM5NZ"
+*** You are running in headless mode.
+1595854821714	Marionette	INFO	Listening on port 62357
+1595854821773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855070557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile79sgpS"
+*** You are running in headless mode.
+1595855073244	Marionette	INFO	Listening on port 62447
+1595855073289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855180635	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilexWeaSc"
+*** You are running in headless mode.
+1595855183391	Marionette	INFO	Listening on port 62527
+1595855183484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855211022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileH0ElMN"
+*** You are running in headless mode.
+1595855213787	Marionette	INFO	Listening on port 62603
+1595855213874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855330296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileJ02ESy"
+*** You are running in headless mode.
+1595855333067	Marionette	INFO	Listening on port 62692
+1595855333164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595855697969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile8zzscI"
+*** You are running in headless mode.
+1595855700735	Marionette	INFO	Listening on port 62842
+1595855700825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855816311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile0cjrEi"
+*** You are running in headless mode.
+1595855819086	Marionette	INFO	Listening on port 62929
+1595855819156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595855984865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilef57rtm"
+*** You are running in headless mode.
+1595855987512	Marionette	INFO	Listening on port 62997
+1595855987523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595856166945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilem0703S"
+*** You are running in headless mode.
+1595856170710	Marionette	INFO	Listening on port 63117
+1595856170746	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595856187886	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileJSQp3D"
+*** You are running in headless mode.
+1595856190477	Marionette	INFO	Listening on port 63201
+1595856190531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595856374763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileDYYmmD"
+*** You are running in headless mode.
+1595856377697	Marionette	INFO	Listening on port 63276
+1595856377733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595856553793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiler0id26"
+*** You are running in headless mode.
+1595856556566	Marionette	INFO	Listening on port 63364
+1595856556650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595857100213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileubZ285"
+*** You are running in headless mode.
+1595857102993	Marionette	INFO	Listening on port 63573
+1595857103073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595857142129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilecsMFgD"
+*** You are running in headless mode.
+1595857145274	Marionette	INFO	Listening on port 63665
+1595857145293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595857500766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileY0WCjc"
+*** You are running in headless mode.
+1595857503787	Marionette	INFO	Listening on port 63774
+1595857503801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595858175022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiletuqARN"
+*** You are running in headless mode.
+1595858178461	Marionette	INFO	Listening on port 64001
+1595858178497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595858346168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilebV115a"
+*** You are running in headless mode.
+1595858349892	Marionette	INFO	Listening on port 64184
+1595858349980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595858412262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileb7p60m"
+*** You are running in headless mode.
+1595858416827	Marionette	INFO	Listening on port 64299
+1595858416923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595858727718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileZKzFLb"
+*** You are running in headless mode.
+1595858731981	Marionette	INFO	Listening on port 64543
+1595858732074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595858777218	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileIe7G00"
+*** You are running in headless mode.
+1595858783042	Marionette	INFO	Listening on port 64661
+1595858783129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595858886182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile3PQgLC"
+*** You are running in headless mode.
+1595858890574	Marionette	INFO	Listening on port 64812
+1595858890627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595859029720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile9QBiZF"
+*** You are running in headless mode.
+1595859033437	Marionette	INFO	Listening on port 64951
+1595859033517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595859362433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileuxUf5C"
+*** You are running in headless mode.
+1595859366101	Marionette	INFO	Listening on port 65055
+1595859366122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595859407996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilePhELPP"
+*** You are running in headless mode.
+1595859411907	Marionette	INFO	Listening on port 65165
+1595859412000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595859437373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilePpjMzY"
+*** You are running in headless mode.
+1595859441378	Marionette	INFO	Listening on port 65281
+1595859441395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595859664165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileD14e2q"
+*** You are running in headless mode.
+1595859671097	Marionette	INFO	Listening on port 49337
+1595859671190	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595859886878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilev4Qh38"
+*** You are running in headless mode.
+1595859893066	Marionette	INFO	Listening on port 49581
+1595859893153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860077775	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile8ks1vH"
+*** You are running in headless mode.
+1595860083402	Marionette	INFO	Listening on port 49753
+1595860083409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860271816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileFT3BIJ"
+*** You are running in headless mode.
+1595860277799	Marionette	INFO	Listening on port 49934
+1595860277854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860466607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileS9X5az"
+*** You are running in headless mode.
+1595860472366	Marionette	INFO	Listening on port 50066
+1595860472467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860511448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileG3MofB"
+*** You are running in headless mode.
+1595860514335	Marionette	INFO	Listening on port 50191
+1595860514402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860540800	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilexQY9Tx"
+*** You are running in headless mode.
+1595860544306	Marionette	INFO	Listening on port 50317
+1595860544316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860656864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileG7smum"
+*** You are running in headless mode.
+1595860659977	Marionette	INFO	Listening on port 50440
+1595860660019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860700514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileMh6xOB"
+*** You are running in headless mode.
+1595860704749	Marionette	INFO	Listening on port 50535
+1595860704849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595860808836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiledcElaM"
+*** You are running in headless mode.
+1595860812760	Marionette	INFO	Listening on port 50702
+1595860812854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861024672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilech11j1"
+*** You are running in headless mode.
+1595861028060	Marionette	INFO	Listening on port 50879
+1595861028173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861214711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilePDkZLx"
+*** You are running in headless mode.
+1595861221531	Marionette	INFO	Listening on port 50998
+1595861221579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861403626	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileXnkeGt"
+*** You are running in headless mode.
+1595861407041	Marionette	INFO	Listening on port 51163
+1595861407057	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1595861683838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile1WVlIT"
+*** You are running in headless mode.
+1595861686747	Marionette	INFO	Listening on port 51303
+1595861686806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861728505	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileS5xyA7"
+*** You are running in headless mode.
+1595861731404	Marionette	INFO	Listening on port 51380
+1595861731463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861833583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileDsVTrC"
+*** You are running in headless mode.
+1595861836494	Marionette	INFO	Listening on port 51469
+1595861836538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595861917862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileA7CYFe"
+*** You are running in headless mode.
+1595861920622	Marionette	INFO	Listening on port 51568
+1595861920723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595862035532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileTbIxqa"
+*** You are running in headless mode.
+1595862039203	Marionette	INFO	Listening on port 51654
+1595862039215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595862142395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile7aSKaK"
+*** You are running in headless mode.
+1595862145346	Marionette	INFO	Listening on port 51767
+1595862145445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595862267547	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileApdDsK"
+*** You are running in headless mode.
+1595862270763	Marionette	INFO	Listening on port 51908
+1595862270818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595862413753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilecgNPJi"
+*** You are running in headless mode.
+1595862417734	Marionette	INFO	Listening on port 52020
+1595862417742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595862439980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile5AmH8n"
+*** You are running in headless mode.
+1595862443553	Marionette	INFO	Listening on port 52118
+1595862443560	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595862570222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileam4Fay"
+*** You are running in headless mode.
+1595862579238	Marionette	INFO	Listening on port 52259
+1595862579260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595862909025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofiletI7VVf"
+*** You are running in headless mode.
+1595862915139	Marionette	INFO	Listening on port 52367
+1595862915171	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1595863153964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofile84NA7D"
+*** You are running in headless mode.
+1595863157739	Marionette	INFO	Listening on port 52566
+1595863157783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595863184495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileK0Pzdd"
+*** You are running in headless mode.
+1595863187358	Marionette	INFO	Listening on port 52668
+1595863187400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595863208579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilecSx4VC"
+*** You are running in headless mode.
+1595863211394	Marionette	INFO	Listening on port 52758
+1595863211439	Marionette	WARN	TLS certificate errors will be ignored for this session
