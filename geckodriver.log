@@ -1799,3 +1799,11 @@ Exiting due to channel error.
 *** You are running in headless mode.
 1595852880557	Marionette	INFO	Listening on port 60817
 1595852880664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853091426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofileOUW8St"
+*** You are running in headless mode.
+1595853095050	Marionette	INFO	Listening on port 60955
+1595853095128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595853187192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/x7/x4nrrw9n5vd0jt8sycn636g00000gn/T/rust_mozprofilerQ0IDD"
+*** You are running in headless mode.
+1595853191225	Marionette	INFO	Listening on port 61055
+1595853191305	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -15,10 +15,11 @@ post_urllink = last_recent_post(username,count_post)
 print ("Here are the post link that we aleardy scrape")
 print(post_urllink)
 filename = username
-print ("The photo are saved in folder images")
+print ("Please wait for a couple minutes because the photo are being saved in folder images")
 post_foto = [download_ig_photo(url,filename, username) for url in post_urllink]
-print ("Here are the detail of post that you scrape")
+print ("Please wait for a couple minutes because the detail of post are being process")
 post_detail = [post_link_detail(url) for url in post_urllink]
-print ("The scrape result have been saved in csv folder")
+print ("Please wait for a couple minutes because we are generating the report for you")
 generatecsv = generate_csv(post_detail,)
+print ("The scrape result have been saved in csv folder")
 print ("Halo, The Process of scrape" + username + "has been done succesfully")
