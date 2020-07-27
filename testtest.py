@@ -11,7 +11,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver import Firefox
 from collections import Counter
 
-def recent_20_posts(username):
+def last_5_post(username):
     url = "https://www.instagram.com/" + username 
     options = Options()
     options.add_argument('-headless')
@@ -54,7 +54,7 @@ def find_mentions(comment):
         return ""
 
 
-def insta_link_details(url):
+def post_link_detail(url):
     options = Options()
     options.add_argument('-headless')
     time.sleep(10)
@@ -81,7 +81,7 @@ def insta_link_details(url):
     time.sleep(10)
     return post_details
 
-def insta_url_to_img(url,filename):
+def download_ig_photo(url,filename):
     options = Options()
     options.add_argument('-headless')
     time.sleep(10)
@@ -95,16 +95,16 @@ def insta_url_to_img(url,filename):
         urllib.request.urlretrieve(image, filename)
         print("Gambar telah disimpan")
     except:
-        print("No image")
+        print("Tidak ada gambar,error")
 
 username = 'uphimpactslives'
-example_username_urls = recent_20_posts(username)
-print(example_username_urls)
+post_urllink = last_5_post(username)
+print(post_urllink)
 filename = username
-example_foto = [insta_url_to_img(url,filename) for url in example_username_urls]
-example_username_details = [insta_link_details(url) for url in example_username_urls]
-example_username = pd.DataFrame(example_username_details,)
-example_username.head()
+post_foto = [download_ig_photo(url,filename) for url in post_urllink]
+post_detail = [post_link_detail(url) for url in post_urllink]
+result = pd.DataFrame(post_detail,)
+result.head()
 x = datetime.datetime.now()
 datetime = x.strftime("%d-%b-%Y (%H:%M:%S)")
-example_username.to_csv("csv/"+username+datetime+".csv")
+result.to_csv("csv/"+username+datetime+".csv")
